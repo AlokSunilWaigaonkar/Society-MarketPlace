@@ -17,9 +17,12 @@ A responsive web application built using **React** and **Bootstrap 5**, allowing
 ---
 ## 📸 Screenshots
 
-| Login | Home (Search + Listings) | My Listings |
+| Login | Home (Search + Listings) | My Listings | 
 |-------|--------------------------|-------------|
-| ![Login](./screenshots/login.png) | ![Home](./screenshots/home.png) | ![My Listings](./screenshots/mylistings.png) |
+| ![Login](<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/88bfb453-f411-43ae-b537-65d4a37aaa7f" />
+) | ![Home](<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/7c2b5f19-7177-4493-8221-1cec631e4002" />
+) | ![My Listings](<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/0e0bda83-f9e1-4b57-b3dd-de41720a756d" />
+) | 
 
 ---
 
