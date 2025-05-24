@@ -28,7 +28,7 @@ A responsive web application built using **React** and **Bootstrap 5**, allowing
 ![My Listings](https://github.com/user-attachments/assets/0e0bda83-f9e1-4b57-b3dd-de41720a756d)
 
 ### Add Product 
-![Add Product](<img width="1271" alt="Image" src="https://github.com/user-attachments/assets/33f90225-7d07-433f-af1c-f4bb9164680d" />)
+![Add Product](https://github.com/user-attachments/assets/33f90225-7d07-433f-af1c-f4bb9164680d)
 
 ---
 
