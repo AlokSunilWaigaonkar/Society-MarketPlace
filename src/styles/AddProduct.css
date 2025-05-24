@@ -1,0 +1,16 @@
+.add-product-page {
+    max-width: 800px;
+    margin-top: 5rem;
+  }
+  
+  .card input,
+  .card textarea,
+  .card select {
+    border-radius: 8px;
+    padding: 10px;
+  }
+  
+  .card button {
+    border-radius: 6px;
+    font-weight: 500;
+  }
