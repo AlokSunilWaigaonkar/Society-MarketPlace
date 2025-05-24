@@ -48,3 +48,24 @@ A responsive web application built using **React** and **Bootstrap 5**, allowing
 ```bash
 git clone https://github.com/your-username/society-marketplace.git
 cd society-marketplace
+```
+### 2. Install dependencies
+```bash
+npm install
+```
+### 3. Start the development server
+```bash
+npm start
+```
+---
+##  Login / Signup Info
+	•	New users can sign up
+	•	Credentials are stored in localStorage
+	•	Only logged-in users can access:
+	•	/home
+	•	/addproduct
+	•	/mylistings
+## Data Handling
+	•	Products are initialized from data.js
+	•	All new products are added to localStorage
+	•	My Listings are filtered by logged-in user
