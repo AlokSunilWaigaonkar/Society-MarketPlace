@@ -32,7 +32,7 @@ A responsive web application built using **React** and **Bootstrap 5**, allowing
 
 ---
 ###Video Demo 
-![Video Demo ](https://drive.google.com/uc?id=1Ou-lz7yXhGmlSqaukIK3j8W-4H8hnNuc)
+[![Watch Demo](./video-thumbnail.png)](https://drive.google.com/uc?id=1Ou-lz7yXhGmlSqaukIK3j8W-4H8hnNuc)
 
 ---
 
